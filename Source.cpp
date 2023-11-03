@@ -4,7 +4,11 @@ using namespace std;
 int tong(int a, int b);
 int hieu(int a, int b)
 {
+<<<<<<< HEAD
 	return (a-b);		
+=======
+	return (a+b);
+>>>>>>> 65a798b57b075b83180c413efe99798dc359c607
 }
 int tich(int a, int b);
 float thuong(int a, int b);
